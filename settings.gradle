@@ -1,0 +1,2 @@
+rootProject.name = "Validate user credentials and perform Login"
+include ':app'
